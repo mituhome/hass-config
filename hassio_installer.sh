@@ -9,7 +9,7 @@ function error { echo -e "\e[31m[error] $*\e[39m"; exit 1; }
 
 info "This installer is supported by MiTuHoMe.Vn"
 info ""
-info "This script is based on the the official"
+info "This script is based on the Official"
 info ""
 info "Home Assistant Supervised script available at"
 info ""
