@@ -7,6 +7,7 @@ function info { echo -e "\e[32m[info] $*\e[39m"; }
 function warn  { echo -e "\e[33m[warn] $*\e[39m"; }
 function error { echo -e "\e[31m[error] $*\e[39m"; exit 1; }
 
+info ""
 info "This installer is supported by MiTuHoMe.Vn"
 info ""
 info "This script is based on the Official"
